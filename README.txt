@@ -1,5 +1,3 @@
-Spiking cortical model is applied to image segmentation. 
-
 If you use these codes, please cite the paper:
 
 @InProceedings{FLSCM2015,
@@ -12,4 +10,6 @@ If you use these codes, please cite the paper:
   organization = {IEEE}
 }
 
+If you have any questions, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
 
+http://www.escience.cn/people/kzhan
